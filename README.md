@@ -7,7 +7,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-# 💫 About Me:
+💫 About Me:
 👯 <b>I’m looking to collaborate on</b> &rarr; MERN stack based projects<br>🤝 <b>I’m looking for help with</b> &rarr; anything related to web development and Machine learning<br>🌱 <b>I’m currently learning</b> &rarr; Typescript , MUI , Refine<br>💬 <b>Ask me about</b> &rarr;  Web Development ,UI/UX , Machine Learning and Data Science<br>⚡
 
 # 💻 Tech Stack:
